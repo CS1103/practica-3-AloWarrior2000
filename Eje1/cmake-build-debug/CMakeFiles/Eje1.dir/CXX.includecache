@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/utec/Escritorio/practica-3-AloWarrior2000/Eje1/Matrix.h
+random
+-
+iostream
+-
+
+/home/utec/Escritorio/practica-3-AloWarrior2000/Eje1/main.cpp
+iostream
+-
+deque
+-
+Matrix.h
+/home/utec/Escritorio/practica-3-AloWarrior2000/Eje1/Matrix.h
+

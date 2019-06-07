@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Eje1.dir/main.cpp.o CMakeFiles/Eje1.dir/Matrix.cpp.o  -o Eje1 

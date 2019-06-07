@@ -1,0 +1,3 @@
+/home/utec/Escritorio/practica-3-AloWarrior2000/Eje1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/utec/Escritorio/practica-3-AloWarrior2000/Eje1/cmake-build-debug/CMakeFiles/Eje1.dir
+/home/utec/Escritorio/practica-3-AloWarrior2000/Eje1/cmake-build-debug/CMakeFiles/edit_cache.dir
